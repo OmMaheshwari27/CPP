@@ -1,0 +1,1 @@
+{"name":"Local: odd","url":"/Users/ommaheshwari/Desktop/Hello C/Cpp/odd.cpp","tests":[{"id":1714142281282,"input":"11","output":"odd"},{"id":1714142379138,"input":"101110","output":"even"},{"id":1714142404455,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ommaheshwari/Desktop/Hello C/Cpp/odd.cpp","group":"local","local":true}
